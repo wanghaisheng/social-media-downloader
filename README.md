@@ -1,4 +1,4 @@
-# Social Media Video Downloader
+# tiktoka studio Social Media Video Downloader
 This is a simple social media video downloader. It can download videos from Facebook, Instagram, Tiktok, and YouTube. It is built with React, Vite, and Tailwind CSS.
 
 ## Usage
